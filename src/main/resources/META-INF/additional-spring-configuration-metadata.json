@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "github-token",
+      "type": "java.lang.String",
+      "description": "Authorization token for Github REST API"
+  }
+] }
